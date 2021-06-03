@@ -1,0 +1,11 @@
+Model Information:
+* title:	Amiga days - Dolphin
+* source:	https://sketchfab.com/3d-models/amiga-days-dolphin-fad9c3dd6e454831862e773a28a9538b
+* author:	djesfr (https://sketchfab.com/djesfr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Amiga days - Dolphin" (https://sketchfab.com/3d-models/amiga-days-dolphin-fad9c3dd6e454831862e773a28a9538b) by djesfr (https://sketchfab.com/djesfr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
